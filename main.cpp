@@ -250,6 +250,7 @@ void matrix()
 
 
 int main() {
+    setlocale(LC_ALL, "Russian");
     // 1 task
     //chances();
     // 2 task
